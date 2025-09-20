@@ -1,5 +1,5 @@
 # About Me:
-Estudante de Ciência da Computação na Universidade Federal do Ceará, aprendendo e explorando Ciência de Dados.<br>
+Estudante de Ciência da Computação na Universidade Federal do Ceará, aprendendo e explorando Ciência de Dados e Inteligência Artificial.<br>
 
 
 # Tech Stack:
