@@ -9,7 +9,7 @@ Estudante de Ciência da Computação na Universidade Federal do Ceará, aprende
 
 | Streak | Top Langs |
 |--------|-----------|
-| ![](https://nirzak-streak-stats.vercel.app/?user=erycastro&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=erycastro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+| ![](https://nirzak-streak-stats.vercel.app/?user=erycastro&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=erycastro&theme=dark&hide_border=false&layout=compact&cache_seconds=3600&v=2) |
 
 
 
